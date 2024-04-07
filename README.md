@@ -3,12 +3,12 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.xxfer.cn/">
+    <a href="https://blog.dich.ink/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天又在努力变强鸭~&center=true&size=27" />
     </a>
   </div>
 
-  <h3 align="center">👤 A developer 🏨</h3>
+  <h3 align="center">👤 A developer </h3>
 
   <!-- welcome to my profile  -->
   <p align="center">
@@ -242,18 +242,14 @@
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
-
 
 
 <div align="center" >
 
 <table>
 <tr>
-  <td><img src="./assets/images/rocket.png"/></td>
 </tr>
 <tr>
-  <td><img src="./assert/Bottom_down.svg"/></td>
 </tr>
 </table>
 
