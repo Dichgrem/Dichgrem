@@ -58,6 +58,44 @@
 <tr>
 <td>
 
+<table>
+<tr>
+<td>
+<div align="center" >
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=py,devto,vscode,linux,bash,powershell,qt,androidstudio,docker,anaconda,git,github,githubactions,matlab" /><br>
+
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 70px; height: 70px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 70px; height: 70px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 70px; height: 70px; margin-right: 50px; margin-bottom: 0px;" /><br>
+
+<!-- gif -->
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/html.webp">
+<img height="96" width="96" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/react.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/github.webp">
+
+</div>
+</td>
+</tr>
+</table>
+
+
+
 - 🧰 Environment :
 
 ![Huawei](https://img.shields.io/badge/Huawei-FF3232?logo=huawei&logoColor=fff&style=flat)
@@ -94,41 +132,7 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-<div align="center" >
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=py,devto,vscode,linux,bash,powershell,qt,androidstudio,docker,anaconda,git,github,githubactions,matlab" /><br>
-
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 70px; height: 70px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 70px; height: 70px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 70px; height: 70px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/html.webp">
-<img height="96" width="96" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/react.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/github.webp">
-
-</div>
-</td>
-</tr>
-</table>
 
 <table>
 <p width="100%" align="center">
