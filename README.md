@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Dichgrem/Dichgrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -41,53 +27,6 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
-
-<table>
-<tr>
-<td>
-
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.xxfer.cn/posts/f3cb979.html' target='_blank'>Kerberos身份认证小结</a> - 2024-04-02
-* <a href='https://blog.xxfer.cn/posts/cbd4b5ab.html' target='_blank'>最近</a> - 2024-03-21
-* <a href='https://blog.xxfer.cn/posts/916babf0.html' target='_blank'>How do you normalize your Git commit?</a> - 2024-03-20
-* <a href='https://blog.xxfer.cn/posts/7dca2e02.html' target='_blank'>路径规划：基于QT的Astar算法演示器</a> - 2024-03-15
-* <a href='https://blog.xxfer.cn/posts/1d3d26fe.html' target='_blank'>爬虫复习记录</a> - 2024-03-15
-* <a href='https://blog.xxfer.cn/posts/e59dce9.html' target='_blank'>自用：Scrapy简单爬些漏洞POC</a> - 2024-03-08
-<!-- END_SECTION:blog -->
-
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-</td>
-</tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/1437909/' target='_blank'>看过梦想奔驰</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1307535/' target='_blank'>看过奔腾年代</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27060077/' target='_blank'>看过绿皮书</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27107140/' target='_blank'>看过我想吃掉你的胰脏</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1849031/' target='_blank'>看过当幸福来敲门</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-<!-- END_SECTION:douban -->
-
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-</td></tr>
-
-<tr>
-<td>
 
 ### 📈 Github Status
 
