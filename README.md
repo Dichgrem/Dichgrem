@@ -28,32 +28,6 @@
 </div>
 
 
-### 📈 Github Status
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<p align="center">
-  <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=default&hide_border=true" />
-  </picture>
-  <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/right.png" />
-</p>
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
-<img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
-
-</td>
-</tr>
-</table>
-
-<!-- GitHub 奖杯🏆 -->
-<div align="center" width="190%">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
-</div>
 
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
