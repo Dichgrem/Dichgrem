@@ -10,14 +10,6 @@
 
   <h3 align="center">👤 A developer </h3>
 
-  <!-- welcome to my profile  -->
-  <p align="center">
-    <img src="./assert/animated-flame-01.gif" width="5.5%" align="left"/>
-    <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
-  </p>
-
-  ### <img width="5%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cat.gif" /> You are my ![Visitor Count](https://profile-counter.glitch.me/JJLibra/count.svg) visitor, Thank you!
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
