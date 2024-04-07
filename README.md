@@ -31,7 +31,7 @@
 
 - 📫 How to reach me :
 
-<a href="https://xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
+<a href="https://blog.dich.ink"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
 <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
 <a href="https://www.zhihu.com/people/shi-shi-88-90-43"><img src="https://img.shields.io/badge/zhihu-0084FF?logo=zhihu&logoColor=white" /></a>
 <a href="https://space.bilibili.com/1327183873/"><img src="https://img.shields.io/badge/Bilibili-FF5CAA?logo=bilibili&logoColor=white" /></a>
