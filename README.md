@@ -13,7 +13,6 @@
   <!-- welcome to my profile  -->
   <p align="center">
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="left"/>
-    <img src="./assert/Bottom_up.svg" width="86%">
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
   </p>
 
