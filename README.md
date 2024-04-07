@@ -4,7 +4,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.xxfer.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小李今天又在努力变强鸭~&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天又在努力变强鸭~&center=true&size=27" />
     </a>
   </div>
 
@@ -244,85 +244,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
-### 📊 Wakatime Status
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-🌆 Daytime                144 commits         ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌃 Evening                189 commits         ██████████░░░░░░░░░░░░░░░   41.91 % 
-🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Tuesday                  123 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Thursday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Sunday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    45 hrs 40 mins      ████████████████████░░░░░   82.00 % 
-JavaScript               4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-CSV                      1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JSON                     59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-
-🔥 Editors: 
-Edge                     45 hrs 37 mins      ████████████████████░░░░░   81.92 % 
-VS Code                  9 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-
-💻 Operating System: 
-Windows                  55 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/04/2024 18:34:40 UTC
-<!--END_SECTION:waka-->
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
-
-<!-- metrics 信息栏2 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
 <div align="center" >
 
