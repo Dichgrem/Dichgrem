@@ -1,11 +1,8 @@
-### Hi there 👋
+# 👋 Welcome to My GitHub!
 
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=0xfffff(%22Hello%2C%20World%22);>
-  </div>
 
-  <h3 align="center">👤 A developer </h3>
+<!-- Dynamic typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=58A6FF&center=true&vCenter=true&width=450&lines=print(%22Hello%2C+World!%22);const+greeting+=+%22Hello%2C+World!%22;console.log(%22Hello%2C+World!%22)" alt="Typing SVG">
 
-
+</div>
